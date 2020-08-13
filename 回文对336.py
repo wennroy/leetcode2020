@@ -110,7 +110,3 @@ words = ["abcd","dcba","lls","s","sssll"]
 start = time.time()
 print(Solution.palindromePairs(None,words))
 print('过去了%s秒'%(time.time()-start))
-
-
-
-
